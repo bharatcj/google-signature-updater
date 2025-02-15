@@ -110,4 +110,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ### **Author**
 Developed by **Bharat CJ**  
 GitHub: https://github.com/bharatcj
-```
