@@ -1,5 +1,4 @@
-```md
-# Google Signature Updater
+### Google Signature Updater
 
 A Python script to update email signatures in Google Workspace automatically.
 
@@ -111,3 +110,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ### **Author**
 Developed by **[Your Name]**  
 GitHub: [Your GitHub Profile](https://github.com/bharatcj)
+```
